@@ -15,3 +15,15 @@
 
 What is essential for a design system?
 https://github.com/viljamis/vue-design-system
+
+
+Find out more about wireframing, storyboards, ui/ux references.
+
+
+
+## Start with principles in design
+S: simplicity
+I: intuitive
+C: common sense
+
+
